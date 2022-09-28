@@ -1,0 +1,14 @@
+.heading {
+    box-shadow: 5px 5px 5px grey;
+    width: 100%;
+    margin: 0;
+}
+
+canvas {
+    border-radius: 30px;
+    box-shadow: 5px 5px 5px rgb(163, 235, 238);
+}
+
+body{
+    background-size: cover;
+}
