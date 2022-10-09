@@ -24,6 +24,7 @@ function setup() {
 
 function draw() {
     image(video, 0, 0, 500, 500);
+    song1_status = song1.isPlaying();
     fill("#FF0000");
     stroke("#FF0000");
     if(leftWristScore > 0.2) {
